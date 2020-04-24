@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Virtual Museum</string>
+
+    <string name="hot">hot</string>
+    <string name="not">not</string>
+
+    <string name="take_photo">Take photo</string>
+</resources>
