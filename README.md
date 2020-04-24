@@ -18,7 +18,7 @@ Flow of the app:
 1. Take a photo.
 2. Classify the photo from trained model.
 3. Show the results.
-4. After clicking Details button, it will show details from [wikipedia api](https://en.wikipedia.org/w/api.php) & run text to speech. If the details are not found in wikipedia, it shows not result found.
+4. After clicking Details button, it shows details from [wikipedia api](https://en.wikipedia.org/w/api.php) & plays text to speech. If the details are not found in wikipedia, it shows no details found.
 
 ### Code structure
 
